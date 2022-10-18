@@ -1,4 +1,4 @@
-package com.example.webhook.controller;
+package com.example.webhook.request;
 
 import lombok.Data;
 
